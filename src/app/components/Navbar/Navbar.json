@@ -1,0 +1,12 @@
+{
+  "navLinks": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Search",
+      "url": "/moviesearch"
+    }
+  ]
+}

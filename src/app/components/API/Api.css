@@ -1,0 +1,33 @@
+.api .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 2rem auto;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.api .btn-container {
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.api .btn-container .btn-style {
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  width: 100%;
+}
+
+.api .img-container {
+  width: 100%;
+  display: flex;
+}
+
+@media screen and (max-width: 940px) {
+  .api .container {
+    grid-template-columns: 1fr;
+    margin: 1rem 0;
+  }
+}

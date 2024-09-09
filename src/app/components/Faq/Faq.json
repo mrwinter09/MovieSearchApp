@@ -1,0 +1,24 @@
+{
+  "Faq": [
+    {
+      "question": "How do I search for movies?",
+      "answer": "To search for movies, simply enter the movie title in the search bar and click the search button. The app will return the top 5 results based on your query."
+    },
+    {
+      "question": "What information is provided about each movie?",
+      "answer": "For each movie, the app displays the poster, title, release year, genre, director, actors, plot (full), and any awards the movie has won."
+    },
+    {
+      "question": "How are the featured movies chosen?",
+      "answer": "The app highlights two predefined movies as featured. These featured movies are loaded when the app starts and provide a full overview of their details including poster, title, year, awards, and plot."
+    },
+    {
+      "question": "Can I view the full plot of a movie?",
+      "answer": "Yes, for each movie you can view the full plot. If the plot is long, there may be a “Read more” option that will expand to show the entire plot."
+    },
+    {
+      "question": "Is this app mobile-friendly?",
+      "answer": "Yes, the app is fully responsive and can be used on any device, including mobile phones and tablets."
+    }
+  ]
+}

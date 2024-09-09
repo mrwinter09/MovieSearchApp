@@ -1,0 +1,26 @@
+{
+  "Footer": {
+    "Support": {
+      "title": "Support",
+      "links": [{ "label": "FAQ", "url": "/support" }]
+    },
+    "Developers": {
+      "title": "Developers",
+      "links": [{ "label": "API", "url": "/developers" }]
+    },
+    "Company": {
+      "title": "Company",
+      "links": [{ "label": "Information", "url": "https://www.sogeti.nl/" }]
+    },
+    "Social": {
+      "title": "Social",
+      "links": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ivan-winter-5a470669/",
+          "icon": "FaLinkedinIn"
+        }
+      ]
+    }
+  }
+}
