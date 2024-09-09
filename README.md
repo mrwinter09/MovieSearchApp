@@ -6,7 +6,7 @@ Here's a version of the README file in English, following the structure you've p
 
 As a movie enthusiast, sometimes you want to spend time discovering new films or reminiscing about old favorites without much effort. That’s why this application was developed. As a developer, I believe it’s important to provide users with an easy way to search and learn about movies. This app allows you to explore detailed information about various movies, including their title, release year, genre, director, and much more. Additionally, the app features a “Best of Six” feature to compare popular movies based on certain criteria, and a turn-based game-like system where you can test which movie stands stronger against another.
 
-[Link to the GitHub repository](https://github.com/mrwinter09/Sogeti)
+[Link to the GitHub repository](https://github.com/mrwinter09/MovieSearchApp)
 
 ## Screenshot
 
